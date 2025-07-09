@@ -1,0 +1,5 @@
+# Created at 2025-07-07T18:32:10.090
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Training\Oracle\Pune Batch\Batch-01\Artifact\Spring\Wockspace\spring-spel\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

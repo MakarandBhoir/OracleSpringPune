@@ -1,0 +1,4 @@
+com\oracle\config\AppConfig.class
+com\oracle\App.class
+com\oracle\model\Person.class
+com\oracle\spel\DemoBean.class
