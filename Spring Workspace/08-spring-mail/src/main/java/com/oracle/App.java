@@ -12,7 +12,7 @@ public class App {
         EmailService emailService = context.getBean(EmailService.class);
 
         emailService.sendSimpleEmail(
-                "makarand.training@gmail.com", 
+                "singhkv99@gmail.com", 
                 "Spring Mail Test", 
                 "Hello from Spring Mail without Spring Boot!"
         );
